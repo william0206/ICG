@@ -1,5 +1,5 @@
 # ICG
-> Introduction to Computer Graphics `nctu_cs 108_course'
+> Introduction to Computer Graphics `nctu_cs 108_course`
 
 Four simple homework projects implemented by `OpenGL` and `GLSL`.
 
